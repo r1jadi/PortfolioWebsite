@@ -17,7 +17,7 @@ export const personalInfo = {
     github: 'https://github.com/r1jadi',
     linkedin: 'https://www.linkedin.com/in/rijad-halili-94a5162a6/',
     website: 'https://rijadhalili.dev',
-    cvFile: '/Rijad Halili - Europass CV.pdf',
+    cvFile: '/resume.pdf',
 };
 
 export const aboutData = {
