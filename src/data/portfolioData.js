@@ -93,7 +93,7 @@ export const experienceData = [
         company: 'Tax Administration of Kosovo',
         location: 'Prishtina, Kosovo',
         period: 'Feb 2026 – Present',
-        type: 'Internship',
+        type: 'Internship - Full Time',
         description: [
             'Identify and verify registered taxpayers operating within assigned areas.',
             'Perform fieldwork across Prishtina and distribute official taxpayer identification materials.',
@@ -119,7 +119,7 @@ export const experienceData = [
         company: 'Shoferi Im',
         location: 'Prishtina, Kosovo',
         period: 'Jul 2025 – Aug 2025',
-        type: 'Part-time',
+        type: 'Full-time',
         description: [
             'Provided excellent customer service and safe transport for passengers.',
             'Managed efficient routes and daily cash balance accurate receipts.',
