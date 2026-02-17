@@ -83,8 +83,8 @@ export default function Footer() {
                 {/* Copyright */}
                 <div className="mt-10 pt-6 border-t border-gray-200 dark:border-dark-border text-center">
                     <p className="text-sm text-gray-500 dark:text-dark-muted flex items-center justify-center gap-1">
-                        © {currentYear} {personalInfo.name}. Built with
-                        <FaHeart className="text-red-500 text-xs" />
+                        © {currentYear} {personalInfo.name}. Built by
+                        Bleta🐝
                         using React & TailwindCSS.
                     </p>
                 </div>
