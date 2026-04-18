@@ -106,7 +106,7 @@ export const experienceData = [
         ],
     },
     {
-        role: 'Intern & Reporting Assistant',
+        role: 'Intern',
         company: 'Tax Administration of Kosovo',
         location: 'Prishtina, Kosovo',
         period: 'Feb 2026 – May 2026',
