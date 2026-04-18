@@ -8,26 +8,37 @@ export const personalInfo = {
     name: 'Rijad Halili',
     firstName: 'Rijad',
     lastName: 'Halili',
-    title: 'Full-Stack Developer & Intern at Tax Administration of Kosovo',
-    titles: ['Full-Stack Developer', 'CSE Student', 'Intern at Tax Administration of Kosovo', 'Co-Founder of Bleta'],
+    title: 'Full-Stack Developer',
+    titles: ['Full-Stack Developer', 'Computer Science and Engineering Graduate'],
     email: 'rijadhalilirh@gmail.com',
     phone: '(+383) 48 881 774',
     location: 'Prishtina, Kosovo',
     // User profile links
     github: 'https://github.com/r1jadi',
-    linkedin: 'https://www.linkedin.com/in/rijad-halili-94a5162a6/',
-    website: 'https://rijadhalili.dev',
+    linkedin: 'https://www.linkedin.com/in/rijadhalili/',
+    website: 'https://rijadhalili.vercel.app/',
     cvFile: '/resume.pdf',
 };
 
 export const aboutData = {
-    bio: `Motivated and ambitious Computer Science student with strong foundations in software development, web technologies, and problem-solving. Experienced in both technical and real-world environments, including election management roles, customer-focused work, and international project collaboration. Winner of the Erasmus+ Elegants innovation competition (3rd place), with proven skills in teamwork, research, leadership, and creative solution design. 
+    bio: `Motivated and ambitious Computer Science student with strong foundations in software development, web technologies, and problem-solving. Experienced in both technical and real-world environments, including election management roles, customer-focused work, and international project collaboration. Winner of the Erasmus+ Elegants Innovation Competition (3rd place), with proven skills in teamwork, research, leadership, and creative solution design.
+    
+    Previously worked as an Intern at the Tax Administration of Kosovo and served as Co-Founder and CEO of Bleta, a technology-driven company developing digital products and e-commerce brands. Through these roles, gained handson experience in public sector operations, taxpayer communication, fieldwork, administrative processes, business development, and full-stack software engineering.
+    
+    Led the development of key projects within the Bleta ecosystem, including Blejta.xk (an online clothing and consumer goods reselling platform) and “m’duhet ni qisi” (a gadget-focused e-commerce brand), building practical expertise in branding, digital sales, logistics, and scalable web application development.
+    
+    Skilled in both frontend and backend development, with hands-on experience building practical and modern applications such as an Expense Tracker web application (React.js & .NET Web API Core) and an E-commerce store (Angular & .NET Web API Core).
+    
+    Developed additional advanced projects, including: 
+        • FutureEcho – an AI-powered journaling application that enables users to interact with a simulated “future self,” utilizing long-term memory retrieval and personalized insights. Built with Next.js (App Router), TypeScript, TailwindCSS, PostgreSQL, Prisma, and Google Gemini (with embeddings), and deployed using serverless architecture on Vercel. 
+        • Blejta.xk Web Application – a modern full-stack e-commerce platform with a responsive frontend and scalable backend for real-time interactions and data management, built using React, Node.js, Express, and database solutions such as MongoDB/MySQL, deployed on platforms like Render and Vercel. 
+        • Personal Portfolio Website – a modern, responsive portfolio built with React and Vite, styled with TailwindCSS, and enhanced with Framer Motion animations, featuring dark/light mode, interactive UI components, and integrated contact functionality.
+    
+    Strong foundation in software documentation, having prepared multiple Software Engineering, Architecture, and Design documents.
+    
+    Beyond technical skills, highly interested in management, economics, finance, and marketing, combining analytical thinking with structured documentation and organizational planning. Eager to contribute to multidisciplinary teams, gain real-world experience, and continue developing as both a software professional and future entrepreneur.
 
-    Currently working as an Intern at the Tax Administration of Kosovo, while also serving as Co-Founder of Blejta.xk, an online product-reselling initiative where I am actively developing the business model and building the official e-commerce platform. Through this role, I am gaining hands-on experience in public sector operations, taxpayer communication, fieldwork, and administrative processes. In parallel, through Blejta.xk, I am developing practical skills in branding, digital sales, logistics, and full-stack web development. Skilled in both frontend and backend development, with hands-on experience building practical projects such as an Expense Tracker web application (React.js & .NET Web API Core) and an E-commerce store (Angular & .NET Web API Core). Strong foundation in software documentation, having prepared multiple Software Engineering, Architecture, and Design documentations.
-
-    Beyond technical skills, I am also passionate about management, economics, finance, and marketing, where I enjoy combining analytical thinking with documentation and organizational planning. I am eager to contribute my skills to multidisciplinary teams, gain real-world experience, and continue developing both as a software professional and future entrepreneur.
-
-    Dedicated to continuous learning, improving digital skills, and applying technology to real-life challenges. Known for responsibility, communication, teamwork, and the ability to adapt quickly in diverse professional environments.`,
+    Dedicated to continuous learning, improving digital skills, and applying technology to real-life challenges. Known for responsibility, strong communication, teamwork, and the ability to adapt quickly in diverse professional environments.`,
     highlights: [
         'Full-Stack Web Development',
         'Erasmus+ Innovation Award Winner',
@@ -79,26 +90,35 @@ export const experienceData = [
         role: 'Co-Founder & Full-Stack Developer',
         company: 'Bleta',
         location: 'Prishtina, Kosovo',
-        period: 'Sep 2025 – Present',
+        period: 'Sep 2025 – April 2026',
         type: 'Self-Employed',
         description: [
-            'Developing the official e-commerce website including product listings, cart flow, and authentication.',
-            'Managing full business setup: branding, logistics, customer communication, and inventory.',
-            'Building admin dashboard and analytics for tracking sales and traffic.',
+            'Co-founded and led Bleta, a technology-driven company focused on building digital products, brands, and web solutions. Served as Chief Executive Officer (CEO) and Lead Developer, defining company vision, strategy, and growth while managing operations, brand development, and partnerships.',
+            'Developed and managed two core e-commerce brands under Bleta: Blejta.xk (online reselling shop for clothing and consumer goods) and “m’duhet ni qisi” (online reselling shop for gadgets and tech-related products).',
+            'Oversaw product sourcing, pricing strategies, and market testing through social media channels and direct customer engagement.',
+            'Built user authentication, admin dashboard and analytics for tracking sales and traffic.',
+            'Designed and implemented modern, responsive user interfaces.',
+            'Managed business operations including logistics planning, branding, customer communication, packaging processes, and inventory tracking.',
+            'Built brand identities from the ground up, including logo design, visual direction, tone of communication, and marketing strategy',
             'Established brand identity and early sales channels through social media (TikTok/Instagram).',
+            'Developed product listings, shopping cart systems, and order management workflows',
+            'Delivered scalable and functional e-commerce solutions, contributing to the growth and positioning of Bleta’s digital ecosystem.',
         ],
     },
     {
         role: 'Intern & Reporting Assistant',
         company: 'Tax Administration of Kosovo',
         location: 'Prishtina, Kosovo',
-        period: 'Feb 2026 – Present',
+        period: 'Feb 2026 – May 2026',
         type: 'Internship - Full Time',
         description: [
-            'Identify and verify registered taxpayers operating within assigned areas.',
-            'Perform fieldwork across Prishtina and distribute official taxpayer identification materials.',
-            'Conduct high-volume outbound calls (100+ per day) to inform business owners about compliance.',
-            'Maintain accurate records related to contacted businesses and completed distributions.',
+            'Completed a 6-month internship at the Tax Administration of Kosovo, supporting taxpayer compliance and field operations.',
+            'Identified and verified registered taxpayers operating within assigned areas, ensuring accuracy and up-to-date records.',
+            'Distributed official taxpayer identification stickers at business premises and ensured their proper placement and visibility in accordance with regulations.',
+            'Conducted high-volume outbound calls (100+ daily) to inform business owners about sticker collection procedures and compliance requirements.',
+            'Communicated directly with taxpayers, providing clear guidance, resolving inquiries, and representing the institution professionally.',
+            'Performed fieldwork across Prishtina, combining on-site visits with office-based administrative responsibilities.Maintained accurate and organized records of contacted businesses, completed distributions, and follow-up activities.',
+            'Demonstrated strong time management, reliability, and professionalism while working full-time (08:00–16:00) in a dynamic, high-volume environment.',
         ],
     },
     {
@@ -108,10 +128,14 @@ export const experienceData = [
         period: 'Oct 2025 – Dec 2025',
         type: 'Public Service',
         description: [
-            'Managed polling station operations during election days in Oct & Nov & Dec 2025.',
-            'Verified voter identities and ensured compliance with election regulations.',
-            'Monitored voting process for fairness and transparency.',
-            'Recorded and reported voting data accurately.',
+            'Served as a Polling Station Commissioner at the Central Election Commission of Kosovo during multiple election periods (October–December 2025).',
+            'Assisted in the organization and management of polling station operations during election days, ensuring procedures were conducted efficiently.',
+            'Verified voter identities and ensured accurate implementation of voter registration procedures in accordance with electoral regulations.',
+            'Distributed ballots and provided clear instructions to voters to facilitate a smooth voting process.',
+            'Monitored voting activities to ensure fairness, transparency, and full compliance with election laws and guidelines.',
+            'Recorded and reported voting data accurately, maintaining attention to detail and procedural integrity',
+            'Maintained order within the polling station and resolved minor issues to support a secure and organized environment.',
+            'Collaborated closely with committee members and election officials to ensure an efficient and well-coordinated election process.',
         ],
     },
     {
@@ -121,8 +145,14 @@ export const experienceData = [
         period: 'Jul 2025 – Aug 2025',
         type: 'Full-time',
         description: [
-            'Provided excellent customer service and safe transport for passengers.',
-            'Managed efficient routes and daily cash balance accurate receipts.',
+            'Transported passengers safely to their destinations while following all traffic laws and regulations.',
+            'Provided excellent customer service by assisting passengers with luggage and ensuring a comfortable ride.',
+            'Planned efficient routes using GPS and local knowledge to minimize travel time.',
+            'Maintained a clean, well-kept, and roadworthy vehicle at all times.',
+            'Handled payments, issued receipts, and managed daily cash balance accurately.',
+            'Ensured punctuality by responding quickly to ride requests and managing time effectively.',
+            'Assisted passengers with special needs and ensured their safety during boarding and transport.',
+            'Monitored vehicle performance and reported any mechanical issues promptly.',
         ],
     },
 ];
@@ -165,6 +195,15 @@ export const projectsData = [
         techStack: ['Angular', 'C#', 'E-commerce', 'Branding', 'Logistics', 'SQL'],
         github: 'https://github.com/r1jadi/Blejta',
         liveDemo: 'https://github.com/r1jadi/Eagle-Commerce',
+        image: null,
+        featured: true,
+    },{
+        title: 'FutureEcho',
+        description:
+            'An AI-powered journaling application that enables users to interact with a simulated “future self,” utilizing long-term memory retrieval and personalized insights. Built with Next.js (App Router), TypeScript, TailwindCSS, PostgreSQL, Prisma, and Google Gemini (with embeddings), and deployed using serverless architecture on Vercel.',
+        techStack: ['Next.js', 'TypeScript', 'AI integration', 'GoogleGemini', 'Prisma', 'PostgreSQL'],
+        github: 'https://github.com/r1jadi/FutureEcho',
+        liveDemo: 'https://future-echo.vercel.app/',
         image: null,
         featured: true,
     },
