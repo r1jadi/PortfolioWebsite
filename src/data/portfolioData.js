@@ -45,7 +45,7 @@ export const aboutData = {
         'Co-Founder of Bleta',
         'Public Sector Experience',
         'Software Architecture & Design',
-        'Languages: Albanian() / English (C1)',
+        'Languages: Albanian(Native) / English (C1)',
         'Hobbies: Music, Sport, Social Media',
     ],
 };
